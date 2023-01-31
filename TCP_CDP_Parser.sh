@@ -5,6 +5,8 @@
 # Function: Parse TCPDump CDP Output #
 ######################################
 
+# Note: Don't judge this mess.  Wrote it a long time ago to make my life easier, didn't need refinement then so here it sits.
+
 #///VARIABLES
 FilterDeviceID="Device-ID"
 FilterDevicePlatform="Platform"
